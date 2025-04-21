@@ -1,0 +1,17 @@
+# 这是ModID识别表
+# 每一行写一个需要识别的modid或者类名
+# 可以带注释，注释要用 #
+
+optifine.Differ # OptiFine
+net.irisshaders.iris.Iris # Iris Shaders
+me.wesley1808.servercore.common.ServerCore # ServerCore
+org.spongepowered.mod.SpongeMod # SpongeForge
+i18nupdatemod.I18nUpdateMod # I18n更新
+com.nakuring.enhanced_boss_bars.EnhancedBossBars # Enhanced Boss Bars
+me.flashyreese.mods.sodiumextra.EmbeddiumExtraMod # Embeddium Extra
+com.nekotune.battlemusic.BattleMusic # Battle Music
+com.zergatul.freecam.ModMain # FreeCam
+io.github.reserveword.imblocker.IMBlocker # IMBlocker
+me.towdium.jecharacters.JustEnoughCharacters # Just Enough Characters
+com.lootbeams.LootBeams # Loot Beams
+net.darkhax.maxhealthfix.MaxHealthFixForge # Max Health Fix
