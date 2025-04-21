@@ -1,1 +1,17 @@
+# 这是Mod名字识别表
+# 每一行写一个需要识别的Mod名字
+# 注释用#，空行可以有
 
+OptiFine             # OptiFine高清修复
+Sodium               # Sodium优化mod
+Iris                 # Iris光影支持
+Embeddium            # Embeddium性能增强
+Embeddium Extra      # Embeddium的拓展版
+FreeCam              # 自由摄像机mod
+IMBlocker            # IMBlocker聊天拦截器
+Just Enough Characters  # JECharacters支持
+Loot Beams           # 掉落物光柱
+Max Health Fix       # 最大生命值修复补丁
+Dynamic FPS          # 动态FPS降低器
+FabricSkyBoxes       # Fabric天空盒支持
+Indium               # Indium渲染优化
